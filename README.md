@@ -1,3 +1,4 @@
-# week2_day1
-## Make responsive this page https://theme-land.com/prolend/demo/index.html using CSS media queries
-* Don't forget using flexbox rules
+# week1_day6
+
+## Create https://theme-land.com/prolend/demo/index.html front-end page using `html, css` until `Technical Specs.` section
+* Use Flexbox rules
